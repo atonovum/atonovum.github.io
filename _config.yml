@@ -1,14 +1,14 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-title: Robin Kwon Blog
-repository: robin-kkk/robin-kkk.github.io
-name: Robin's website
+title: AtoNovum Blog
+repository: atonovum/atonovum.github.io
+name: Eunjin's website
 email: gej48443@gmail.com
 footer_text: >
-  <a href="https://github.com/robin-kkk">Github</a>
+  <a href="https://github.com/atonovum">Github</a>
   <a href="https://www.linkedin.com/in/eunjin-kwon-a1636114a/">LinkedIn</a>
-url: https://robin-kkk.github.io
+url: https://atonovum.github.io
 
 # -----------------------------------------------------------------------------
 # Blog
