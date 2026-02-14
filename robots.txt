@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://atonovum.github.io/sitemap.xml

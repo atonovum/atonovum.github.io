@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Eunjin Kwon</title>
+    <link>https://atonovum.github.io/categories/</link>
+    <description>Recent content in Categories on Eunjin Kwon</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Feb 2026 20:35:53 +0900</lastBuildDate>
+    <atom:link href="https://atonovum.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Techonology</title>
+      <link>https://atonovum.github.io/categories/techonology/</link>
+      <pubDate>Sat, 14 Feb 2026 20:35:53 +0900</pubDate>
+      <guid>https://atonovum.github.io/categories/techonology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Investment</title>
+      <link>https://atonovum.github.io/categories/investment/</link>
+      <pubDate>Sat, 14 Feb 2026 01:10:00 +0900</pubDate>
+      <guid>https://atonovum.github.io/categories/investment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology</title>
+      <link>https://atonovum.github.io/categories/technology/</link>
+      <pubDate>Sat, 14 Feb 2026 01:09:59 +0900</pubDate>
+      <guid>https://atonovum.github.io/categories/technology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Life</title>
+      <link>https://atonovum.github.io/categories/life/</link>
+      <pubDate>Fri, 13 Feb 2026 22:42:01 +0900</pubDate>
+      <guid>https://atonovum.github.io/categories/life/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

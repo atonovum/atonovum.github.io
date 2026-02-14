@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Diary on Eunjin Kwon</title>
+    <link>https://atonovum.github.io/tags/diary/</link>
+    <description>Recent content in Diary on Eunjin Kwon</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Feb 2026 22:42:01 +0900</lastBuildDate>
+    <atom:link href="https://atonovum.github.io/tags/diary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dailylife</title>
+      <link>https://atonovum.github.io/archives/life/2026-02-13-dailylife/</link>
+      <pubDate>Fri, 13 Feb 2026 22:42:01 +0900</pubDate>
+      <guid>https://atonovum.github.io/archives/life/2026-02-13-dailylife/</guid>
+      <description>&lt;h1 id=&#34;title-1&#34;&gt;Title 1&lt;/h1&gt;
+&lt;p&gt;Do something&lt;/p&gt;
+&lt;h2 id=&#34;title-2&#34;&gt;Title 2&lt;/h2&gt;
+&lt;p&gt;Little Something&lt;/p&gt;
+&lt;h3 id=&#34;title-3&#34;&gt;Title 3&lt;/h3&gt;
+&lt;p&gt;TBD&lt;/p&gt;
+&lt;h2 id=&#34;next&#34;&gt;Next&lt;/h2&gt;
+&lt;p&gt;$\mu = \sigma^2$&lt;/p&gt;
+&lt;p&gt;is it wrong?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
