@@ -1,4 +1,0 @@
-# Blog Deployment
-
-Hugo blog
-
