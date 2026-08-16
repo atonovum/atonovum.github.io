@@ -6,8 +6,29 @@
     <description>Recent content in Tags on Eunjin Kwon</description>
     <generator>Hugo -- 0.146.0</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Feb 2026 20:35:53 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 01:00:00 +0900</lastBuildDate>
     <atom:link href="https://atonovum.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo</title>
+      <link>https://atonovum.github.io/tags/hugo/</link>
+      <pubDate>Sun, 16 Aug 2026 01:00:00 +0900</pubDate>
+      <guid>https://atonovum.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>https://atonovum.github.io/tags/markdown/</link>
+      <pubDate>Sun, 16 Aug 2026 01:00:00 +0900</pubDate>
+      <guid>https://atonovum.github.io/tags/markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mermaid</title>
+      <link>https://atonovum.github.io/tags/mermaid/</link>
+      <pubDate>Sat, 15 Aug 2026 16:36:07 +0900</pubDate>
+      <guid>https://atonovum.github.io/tags/mermaid/</guid>
+      <description></description>
+    </item>
     <item>
       <title>AI/ML</title>
       <link>https://atonovum.github.io/tags/ai/ml/</link>

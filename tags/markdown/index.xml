@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Markdown on Eunjin Kwon</title>
+    <link>https://atonovum.github.io/tags/markdown/</link>
+    <description>Recent content in Markdown on Eunjin Kwon</description>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 16 Aug 2026 01:00:00 +0900</lastBuildDate>
+    <atom:link href="https://atonovum.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Images in Posts</title>
+      <link>https://atonovum.github.io/archives/technology/2026-08-16-images-in-posts/</link>
+      <pubDate>Sun, 16 Aug 2026 01:00:00 +0900</pubDate>
+      <guid>https://atonovum.github.io/archives/technology/2026-08-16-images-in-posts/</guid>
+      <description>&lt;p&gt;An image in a post is laid out from its own dimensions, and any image can be opened at full size in a viewer. This post exists to show both behaviours against real files.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Markdown Alerts in Posts</title>
+      <link>https://atonovum.github.io/archives/technology/2026-08-16-markdown-alerts-in-posts/</link>
+      <pubDate>Sun, 16 Aug 2026 00:30:00 +0900</pubDate>
+      <guid>https://atonovum.github.io/archives/technology/2026-08-16-markdown-alerts-in-posts/</guid>
+      <description>&lt;p&gt;Alerts are blockquotes that carry a label. They mark a passage as advice, a caveat, or a hazard without pulling the reader out of the article. Hugo renders them from ordinary Markdown, so a post keeps its plain-text source.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mermaid Diagrams in Markdown</title>
+      <link>https://atonovum.github.io/archives/technology/2026-08-15-mermaid-diagrams-in-markdown/</link>
+      <pubDate>Sat, 15 Aug 2026 16:36:07 +0900</pubDate>
+      <guid>https://atonovum.github.io/archives/technology/2026-08-15-mermaid-diagrams-in-markdown/</guid>
+      <description>&lt;p&gt;Mermaid diagrams can be written directly in Markdown with a fenced &lt;code&gt;mermaid&lt;/code&gt; code block. Hugo keeps the diagram definition in the page, and the browser renders it when the page loads.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
